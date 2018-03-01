@@ -5,6 +5,7 @@ public class SortObject
 	public static void main(String[] args)
 	{	
 		// TODO Auto-generated method stub
+		//Hello THERE
 		String carN1, carN2, carN3;
 		int rateNum = 0; 		
 		Object car1 = new Object();
